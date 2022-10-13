@@ -1,2 +1,2 @@
 # machine-learning
-basic regression models
+basic regression and classification models
